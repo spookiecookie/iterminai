@@ -10,6 +10,10 @@ F
 Failover
 Permetimas - sistemos funkcionavimas naudojant antrinius išteklius, kai pirminiai ištekliai tapo neprieinami.
 
+H
+Heartbeat
+Gyvumas - požymis, jog sistema funkcionuoja.
+
 S
 Sharding
 Skaldymas - naudojamas duomenims išskaldyti po kelias fizines vietas.
