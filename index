@@ -6,6 +6,10 @@ D
 Deployment
 Parengtis - įrangos parengtis naudojimui.
 
+F
+Failover
+Permetimas - sistemos funkcionavimas naudojant antrinius išteklius, kai pirminiai ištekliai tapo neprieinami.
+
 S
 Sharding
 Skaldymas - naudojamas duomenims išskaldyti po kelias fizines vietas.
